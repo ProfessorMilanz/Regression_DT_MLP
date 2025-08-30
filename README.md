@@ -8,10 +8,13 @@ This repository provides basic, educational implementations of linear regression
 
 * **Linear Regression Example:**
   A simple implementation demonstrating the fundamentals of linear regression.
+  
 * **Logistic Regression Example:**
   A basic example showing how logistic regression works for classification tasks.
+
 * **MLP Regression Example:**
   A simple multi-layer perceptron example for regression, demonstrating neural network basics.
+
 * **Educational Focus:**
   Step-by-step implementations with comments to help beginners understand the underlying logic.
 
