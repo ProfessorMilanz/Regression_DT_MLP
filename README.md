@@ -1,5 +1,4 @@
 # Regression_DT_MLP
-# Regression\_DT\_MLP
 
 **Simple beginner-friendly examples of regression and decision tree models in Python.**
 
