@@ -1,22 +1,17 @@
-# Regression_DT_MLP
+# Regression\_DT\_MLP
 
-**Simple beginner-friendly examples of regression and decision tree models in Python.**
+**Simple beginner-friendly examples of linear regression, logistic regression, and MLP models in Python.**
 
-This repository provides basic, educational implementations of regression and decision tree algorithms. It's designed for learners who want to understand the core concepts by coding the algorithms manually.
+This repository provides basic, educational implementations of linear regression, logistic regression, and multi-layer perceptron (MLP) algorithms. It's designed for learners who want to understand the core concepts by coding the algorithms manually.
 
 ## Features
 
-* **Regression Examples:**
-  Two simple examples demonstrating linear regression and a basic multi-layer perceptron (MLP) regression.
-* **Decision Tree Example:**
-  A simple regression tree implementation, focusing on tree construction, splitting, and prediction.
+* **Linear Regression Example:**
+  A simple implementation demonstrating the fundamentals of linear regression.
+* **Logistic Regression Example:**
+  A basic example showing how logistic regression works for classification tasks.
+* **MLP Regression Example:**
+  A simple multi-layer perceptron example for regression, demonstrating neural network basics.
 * **Educational Focus:**
   Step-by-step implementations with comments to help beginners understand the underlying logic.
 
-## Contributing
-
-Contributions and improvements are welcome! Feel free to open issues or submit pull requests.
-
-## License
-
-This project is licensed under the MIT License.
