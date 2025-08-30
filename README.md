@@ -18,3 +18,6 @@ This repository provides basic, educational implementations of linear regression
 * **Educational Focus:**
   Step-by-step implementations with comments to help beginners understand the underlying logic.
 
+## Contributing
+
+Contributions and improvements are welcome! Feel free to open issues or submit pull requests.
